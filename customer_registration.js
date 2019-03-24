@@ -1,5 +1,4 @@
-
-
+# this is for customer registration
 <!DOCTYPE html>
 <html>
 	<head>
