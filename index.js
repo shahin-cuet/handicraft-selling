@@ -1,9 +1,4 @@
-<?php
-session_start();
-if(isset($_SESSION["uid"])){
-	header("location:profile.php");
-}
-?>
+
 <!DOCTYPE html>
 <html>
 	<head>
